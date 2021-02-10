@@ -10,6 +10,7 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.AlexeyAndAuto">
         <activity android:name=".AutoActivity"></activity>
+        <activity android:name=".RashidActivity"></activity>
         <activity android:name=".MainActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
